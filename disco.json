@@ -1,0 +1,10 @@
+{
+    "version": "1.0",
+    "services": {
+        "web": {
+            "type": "static",
+            "image": "floryn90/hugo:latest",
+            "command": "--gc --minify -d /dist"
+        }
+    }
+}
