@@ -10,4 +10,4 @@ hugo server -D
 
 git add, commit, push!
 
-documentation TODO TODO TODO
+[see the documentation](https://docs.letsdisco.dev/tldr-guides/deploying-a-hugo-static-site)
