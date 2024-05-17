@@ -1,6 +1,6 @@
 # Example disco Hugo Site
 
-[See the documentation](https://docs.letsdisco.dev/tldr-guides/deploying-a-hugo-static-site)
+[See the documentation](https://docs.letsdisco.dev/deployment-guides/hugo-static-site)
 
 ---
 
